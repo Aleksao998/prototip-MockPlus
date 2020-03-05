@@ -1,0 +1,60 @@
+﻿<project version="2.9" name="prototip" ID="16CD6D31-C226-42A6-9CCD-D5D50B0BE94C">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtDesktop" pageSize="(800,600)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Index" ID="2EAD78AC-69B0-406C-92DA-3A171E936D92" expanded="True" code="PF3LQoL1Su" thumbCode="PF3LQoL1Su" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+      </images>
+    </page>
+    <page name="Muzicari" ID="0D99B255-7F5D-4828-B4FB-7331152EDE0F" expanded="True" code="DmxkySKoAF" thumbCode="DmxkySKoAF" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D9A6B48B1FEBA31C14CD8CB7C4744E0C.svg"/>
+        <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+      </images>
+    </page>
+    <page name="Olgasi" ID="68104871-8773-4FF1-9F94-93869B06B720" expanded="True" code="n39kGdgjau" thumbCode="n39kGdgjau" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D9A6B48B1FEBA31C14CD8CB7C4744E0C.svg"/>
+      </images>
+    </page>
+    <page name="Uloguj se" ID="A2E53F4D-669C-43E2-8C25-A185EF1A479E" expanded="True" code="zC76qtdr77" thumbCode="zC76qtdr77" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Registruj se" ID="2D0D5A55-9CCD-4C0B-BF60-803CF29F98C0" expanded="True" code="hU7jF5DLMN" thumbCode="hU7jF5DLMN" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Registracija muzicara" ID="A4F9B9B6-0CB3-444B-B770-004E776B96B9" expanded="True" code="PXGMbYc2X9" thumbCode="PXGMbYc2X9" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="registracija poslodavca" ID="D037B8D2-20FB-4917-A7CD-14D517319F50" expanded="True" code="wUIoQDWITr" thumbCode="wUIoQDWITr" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="stranica muzicara" ID="5E51DB12-632C-436C-840E-A2D13BB7AB98" expanded="True" code="JsemwH1BuC" thumbCode="JsemwH1BuC" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="7368E932054EB35095B123FCB5C28A31.svg"/>
+        <image key="E6846E633DC1587E343959CBA8946201.svg"/>
+        <image key="BAC363726CD6D85E622901ECB9B29694.svg"/>
+      </images>
+    </page>
+    <page name="stranica poslodavca" ID="0BAC4AE9-4550-4A53-A9EE-6550FA8DF90F" expanded="True" code="AtL3XQu1nV" thumbCode="SaBRTp3k2O" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+        <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+        <image key="8C68413269FD91978C300BB43A9F7584.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Registracija muzicara1" ID="CAAC2434-AAD9-4E2E-810B-7E19CB18A469" expanded="False" code="uWVIvoA6XI" thumbCode="EtNd8b2YPB" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Admin stranica" ID="CA8CF241-632C-4A75-83B2-D53A292C42B5" expanded="False" code="BSMc3rzeHC" thumbCode="YfNRfVUXzz" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="E6846E633DC1587E343959CBA8946201.svg"/>
+    <image key="BAC363726CD6D85E622901ECB9B29694.svg"/>
+    <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+    <image key="D9A6B48B1FEBA31C14CD8CB7C4744E0C.svg"/>
+    <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+    <image key="467605F5F90D9FF65132C1A6EF883F26.svg"/>
+    <image key="8C68413269FD91978C300BB43A9F7584.svg"/>
+    <image key="7368E932054EB35095B123FCB5C28A31.svg"/>
+  </images>
+</project>
