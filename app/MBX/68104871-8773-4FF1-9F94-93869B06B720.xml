@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="68104871-8773-4FF1-9F94-93869B06B720" platform="MtDesktop" defaultW="800" defaultH="600" measureW="800" measureH="687" mobileScreenScale="0">
-  <controls controlCount="43">
+  <controls controlCount="44">
     <control controlID="48DF0330-4350-4D68-B963-B3E855D7D3C8" controlTypeID="BrowserWindow" x="-1" y="0" w="801" h="687" zOrder="0">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>LakoDoMuzike%0D%0Ahttps%3A%2F%2Fwww.lakodomuzike.com%0D%0A</text>
@@ -309,6 +309,13 @@
       <lineSpacing>0</lineSpacing>
       <selectedIndex>-1</selectedIndex>
       <radius>0</radius>
+    </control>
+    <control controlID="B313FC6C-2772-4C47-B2A3-CD0A42EEA32D" controlTypeID="Label" x="662" y="632" w="100" h="16" zOrder="40">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Edit+by+Sara+Labalo</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
     </control>
   </controls>
   <param>

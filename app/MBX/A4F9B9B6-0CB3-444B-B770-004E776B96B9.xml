@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="A4F9B9B6-0CB3-444B-B770-004E776B96B9" platform="MtDesktop" defaultW="800" defaultH="600" measureW="800" measureH="600" mobileScreenScale="0">
-  <controls controlCount="16">
+  <controls controlCount="18">
     <control controlID="9D730AAC-8A74-4D4D-97C9-8233BB858609" controlTypeID="BrowserWindow" x="-1" y="0" w="801" h="600" zOrder="0">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>LakoDoMuzike%0D%0Ahttps%3A%2F%2Fwww.lakodomuzike.com%0D%0A</text>
@@ -103,22 +103,22 @@
       <selectedIndex>-1</selectedIndex>
     </control>
     <control controlID="71B49872-D476-4696-9C6D-B23D3F40EC49" controlTypeID="HRule" x="360" y="165" w="95" h="12" zOrder="11"/>
-    <control controlID="C2E74D7A-F558-4258-9F08-FAE4967A811D" controlTypeID="Shape" x="233" y="213" w="374" h="22" zOrder="12">
+    <control controlID="C2E74D7A-F558-4258-9F08-FAE4967A811D" controlTypeID="Shape" x="233" y="221" w="374" h="22" zOrder="12">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>Email</text>
       <selectedIndex>-1</selectedIndex>
     </control>
     <control controlID="B400E2D0-F772-4CBE-9269-44E4ED65951D" controlTypeID="Shape" x="233" y="253" w="374" h="22" zOrder="13">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
-      <text>sifra</text>
+      <text>Sifra</text>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="AE1B5793-F507-45FE-971E-C3DD9BA1252E" controlTypeID="Shape" x="233" y="298" w="374" h="22" zOrder="14">
+    <control controlID="AE1B5793-F507-45FE-971E-C3DD9BA1252E" controlTypeID="Shape" x="233" y="285" w="374" h="22" zOrder="14">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>Ponovi+sifru</text>
       <selectedIndex>-1</selectedIndex>
     </control>
-    <control controlID="B166385D-0809-4D2C-8B71-62A5498B4928" controlTypeID="Button" x="300" y="353" w="231" h="28" zOrder="15">
+    <control controlID="B166385D-0809-4D2C-8B71-62A5498B4928" controlTypeID="Button" x="303" y="378" w="231" h="28" zOrder="15">
       <color>4284900966</color>
       <borderVisible>False</borderVisible>
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
@@ -131,6 +131,18 @@
       <textColor>4294967295</textColor>
       <textSize>12</textSize>
       <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="547A7356-8596-4340-A3C7-2483B9824B30" controlTypeID="Label" x="680" y="538" w="110" h="16" zOrder="16">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Edit+by+Svetislav+Gaic</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CB01A48A-5A17-4072-A55A-BAABAADAFAB3" controlTypeID="Shape" x="233" y="317" w="374" h="23" zOrder="17">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Kontakt+telefon</text>
       <selectedIndex>-1</selectedIndex>
     </control>
   </controls>

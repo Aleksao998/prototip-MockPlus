@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="A2E53F4D-669C-43E2-8C25-A185EF1A479E" platform="MtDesktop" defaultW="800" defaultH="600" measureW="800" measureH="600" mobileScreenScale="0">
-  <controls controlCount="16">
+  <controls controlCount="17">
     <control controlID="FD70E977-DB40-40B2-8A04-BD1378466CB3" controlTypeID="BrowserWindow" x="-1" y="0" w="801" h="600" zOrder="0">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>LakoDoMuzike%0D%0Ahttps%3A%2F%2Fwww.lakodomuzike.com%0D%0A</text>
@@ -118,6 +118,13 @@
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
       <text>Uloguj+se</text>
       <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2301EE83-C9EE-4521-B3E8-D33DA8F93F34" controlTypeID="Label" x="671" y="545" w="117" h="16" zOrder="16">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Edit+by+Siskin+Vladimir</text>
       <textSize>12</textSize>
       <lineSpacing>0</lineSpacing>
       <selectedIndex>-1</selectedIndex>

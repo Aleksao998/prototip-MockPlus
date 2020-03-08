@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="0D99B255-7F5D-4828-B4FB-7331152EDE0F" platform="MtDesktop" defaultW="800" defaultH="600" measureW="797" measureH="687" mobileScreenScale="0">
-  <controls controlCount="63">
+  <controls controlCount="64">
     <control controlID="0CCC3F54-2502-49FE-942C-EB56F9707E32" controlTypeID="BrowserWindow" x="0" y="0" w="801" h="687" zOrder="0">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>LakoDoMuzike%0D%0Ahttps%3A%2F%2Fwww.lakodomuzike.com%0D%0A</text>
@@ -490,6 +490,13 @@
       <selectedIndex>-1</selectedIndex>
     </control>
     <control controlID="E0630B5B-8754-4BA6-9D02-F0249CC978D0" controlTypeID="VerticalScrollbar" x="785" y="73" w="14" h="614" zOrder="27"/>
+    <control controlID="E3D10DBF-EA52-4D5B-81D3-F07607FEAC8F" controlTypeID="Label" x="662" y="632" w="110" h="16" zOrder="28">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Edit+by+Svetislav+Gaic</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
   </controls>
   <param>
     <backgroundColor>4294967295</backgroundColor>

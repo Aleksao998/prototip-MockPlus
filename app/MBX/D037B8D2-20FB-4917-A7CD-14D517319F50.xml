@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="D037B8D2-20FB-4917-A7CD-14D517319F50" platform="MtDesktop" defaultW="800" defaultH="600" measureW="800" measureH="600" mobileScreenScale="0">
-  <controls controlCount="23">
+  <controls controlCount="24">
     <control controlID="00D6A0DB-C35F-4B55-9AFA-3D8D9B682089" controlTypeID="BrowserWindow" x="-1" y="0" w="801" h="600" zOrder="0">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>LakoDoMuzike%0D%0Ahttps%3A%2F%2Fwww.lakodomuzike.com%0D%0A</text>
@@ -165,7 +165,7 @@
     </control>
     <control controlID="E3167108-972D-4E96-BF29-F599103F91F0" controlTypeID="Button" x="333" y="440" w="231" h="28" zOrder="22">
       <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
-        <link targetPageID="0BAC4AE9-4550-4A53-A9EE-6550FA8DF90F" linkType="ltPageLink" isApplyIncludePage="False" title="stranica+poslodavca">
+        <link targetPageID="EC6913B5-F356-4BB2-980C-CE11EB98AD06" linkType="ltPageLink" isApplyIncludePage="False" title="potvrdaEmail">
           <area shape="0" alt="" ID="{1CED8791-77A7-4C87-9310-335FD56B6D07}" coords="(0,0,231,28)"/>
         </link>
       </links>
@@ -175,6 +175,13 @@
       <lineSpacing>0</lineSpacing>
       <selectedIndex>-1</selectedIndex>
       <radius>4</radius>
+    </control>
+    <control controlID="6E65FBF1-FDD7-4BD8-947A-0D145CB4C9D4" controlTypeID="Label" x="671" y="545" w="100" h="16" zOrder="23">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Edit+by+Sara+Labalo</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
     </control>
   </controls>
   <param>

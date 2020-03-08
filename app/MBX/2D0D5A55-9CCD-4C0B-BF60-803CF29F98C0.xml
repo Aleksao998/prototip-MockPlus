@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="2D0D5A55-9CCD-4C0B-BF60-803CF29F98C0" platform="MtDesktop" defaultW="800" defaultH="600" measureW="800" measureH="600" mobileScreenScale="0">
-  <controls controlCount="16">
+  <controls controlCount="17">
     <control controlID="06ADD2F1-9C7C-4CF2-81D1-0ACE32238084" controlTypeID="BrowserWindow" x="-1" y="0" w="801" h="600" zOrder="0">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>LakoDoMuzike%0D%0Ahttps%3A%2F%2Fwww.lakodomuzike.com%0D%0A</text>
@@ -132,6 +132,13 @@
       <selectedIndex>-1</selectedIndex>
     </control>
     <control controlID="8909716A-852A-48AC-B4C2-63DBE732A6D1" controlTypeID="HRule" x="347" y="162" w="120" h="12" zOrder="15"/>
+    <control controlID="84422455-5A9A-4A31-A4D2-A36C0D42E4CE" controlTypeID="Label" x="671" y="540" w="113" h="16" zOrder="16">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Edit+by+Aleksa+Opacic</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
   </controls>
   <param>
     <backgroundColor>4294967295</backgroundColor>

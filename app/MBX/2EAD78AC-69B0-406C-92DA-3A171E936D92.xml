@@ -1,5 +1,5 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="2EAD78AC-69B0-406C-92DA-3A171E936D92" platform="MtDesktop" defaultW="800" defaultH="600" measureW="800" measureH="977" mobileScreenScale="0">
-  <controls controlCount="58">
+  <controls controlCount="59">
     <control controlID="BC278542-EFD2-4E74-AD87-3AEE207E8248" controlTypeID="BrowserWindow" x="0" y="-6" w="800" h="983" zOrder="0">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>LakoDoMuzike%0D%0Ahttps%3A%2F%2Fwww.lakodomuzike.com%0D%0A</text>
@@ -400,6 +400,13 @@
     <control controlID="DDBCC8B2-0ED1-4DEA-B2B6-37A8562F02BB" controlTypeID="Label" x="481" y="84" w="41" h="16" zOrder="38">
       <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
       <text>O+nama</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7192D1C5-953B-47DD-81D0-C5ED6EE10B30" controlTypeID="Label" x="663" y="917" w="113" h="16" zOrder="39">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Edit+by+Aleksa+Opacic</text>
       <textSize>12</textSize>
       <lineSpacing>0</lineSpacing>
       <selectedIndex>-1</selectedIndex>
